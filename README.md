@@ -25,5 +25,5 @@ Ejecútalo desde tu terminal:
 
 Bash
 
-python desbloquear.py
+python XLSX_Unlocker.py
 El programa te pedirá la ruta del archivo. Puedes arrastrar el archivo Excel a la terminal para que se pegue la ruta automáticamente y presionar Enter.
