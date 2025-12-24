@@ -19,7 +19,7 @@ Resultado: Genera un archivo _unlocked.xlsx que Excel interpretará como un arch
 Instrucciones de uso
 Asegúrate de tener Python instalado.
 
-Copia el código de arriba y guárdalo en un archivo llamado desbloquear.py.
+Copia el código de arriba y guárdalo en un archivo llamado XLSX_Unlocker.py.
 
 Ejecútalo desde tu terminal:
 
